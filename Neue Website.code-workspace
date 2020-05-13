@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "bilder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "EigeneWebsite"
+	}
+}
