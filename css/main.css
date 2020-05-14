@@ -27,8 +27,20 @@ li{
 
 /* Galerie Übersicht */
 
-a, a:hover {
+a {
     color: black;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+.hover a:hover {
+    color: black;
+    border-radius: 5px;
+    border: 1px solid;
+    text-decoration: none;
+    font-weight: bold;
 }
 
  /* @media (max-width: 800px) {
